@@ -37,9 +37,9 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Blog # Needed for Siteleaf
+    title: 포트폴리오 # Needed for Siteleaf
     output: true
-    description: "테스트1" # The post list page content
+    description: "namhyung123의 포트폴리오 페이지<br>현재관심분야:추천시스템, 강화학습<br>https://namhyung123.github.io" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
